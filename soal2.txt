@@ -1,0 +1,11 @@
+soal:
+1. Sebutkan tema proyek yang sedang digarap!
+2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+jawaban:
+1. Apotik
+2.  - Taufik Hidayat (Developer)
+    - Teguh Susilo (Database)
+    - Tiar Viki Wiansyah (Dokumenter)
+3. Pihak Apotik membutuhkan fitur penjualan secara online, pencatatan stok, menampilkan tanggal kadaluarsa obat

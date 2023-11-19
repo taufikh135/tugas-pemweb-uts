@@ -1,0 +1,5 @@
+soal:
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? 
+
+jawaban:
+Dalam pengembangan aplikasi, framework adalah kerangka kerja yang memberikan struktur dan dukungan bagi pengembangan aplikasi. Framework memberikan kumpulan komponen dan fitur yang sudah didefinisikan dan dipersiapkan sebelumnya, sehingga mempermudah proses pengembangan aplikasi.
